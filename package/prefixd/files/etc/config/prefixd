@@ -1,0 +1,4 @@
+config prefixd ffshare1
+	option netprefix 2a0a:4580:1010:2000::/56 
+	option prefix 2a0a:4580:1010:2003::/64 
+	option enabled 1
